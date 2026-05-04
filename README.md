@@ -46,7 +46,7 @@ A simple and efficient mobile application to manage meter readings, calculate us
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/meter-reading-app.git
+git clone [https://github.com/your-username/meter-reading-app.git](https://github.com/Maaz-ul-haq/MeterApp.git)
 
 # Navigate to project folder
 cd meter-reading-app
